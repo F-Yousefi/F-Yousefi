@@ -15,10 +15,8 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Yousefi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ![GitHub metrics](https://metrics.lecoq.io/F-Yousefi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  
 
-![Profile views](https://gpvc.arturio.dev/F-Yousefi)  
