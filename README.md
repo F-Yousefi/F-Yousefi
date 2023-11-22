@@ -3,7 +3,6 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 
 
-<center>
 
 
 | | |
@@ -14,7 +13,6 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 
 
-</center>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
