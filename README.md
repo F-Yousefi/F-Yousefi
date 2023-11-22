@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer engineering from Mazandaran University- Behshahr. I am proud to have been included in the team behind the article: Gurkirt Singh - ROAD: The Road Event Awareness Dataset for Autonomous Driving 2021 -Publisher: IEEE. I prefer to share whatever I have learned so we can learn together. If you think my cooperation is beneficial, feel free to contact me, I would be happy to provide it.
+This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer engineering from Mazandaran University- Behshahr. I am proud to have been included in the team behind the article: Gurkirt Singh - ROAD: The Road Event Awareness Dataset for Autonomous Driving 2021 -Publisher: IEEE. I prefer to share whatever I have learned so we can learn together. If you think my cooperation is beneficial, feel free to contact me, I would be happy to provide it.<br>
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
