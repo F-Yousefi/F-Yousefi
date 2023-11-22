@@ -4,11 +4,13 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Yousefi&show_icons=true)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Yousefi)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Yousefi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ![GitHub metrics](https://metrics.lecoq.io/F-Yousefi)  
 
