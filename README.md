@@ -10,13 +10,19 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 | ------------- | ------------- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](https://github.com/anuraghazra/github-readme-stats)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Yousefi&show_icons=true)  |
 
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 </center>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub metrics](https://metrics.lecoq.io/F-Yousefi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  
 
