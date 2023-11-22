@@ -19,5 +19,4 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  
 
