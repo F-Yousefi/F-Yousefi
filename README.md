@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1FAAF7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1FAAF7&random=false&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+page.)](https://git.io/typing-svg)
 <br>
-I graduated in 2020 with a bachelor's degree in computer engineering from Mazandaran University- Behshahr. I am proud to have been included in the team behind the article: `Gurkirt Singh - ROAD: The Road Event Awareness Dataset for Autonomous Driving 2021 -Publisher: IEEE.` I prefer to share whatever I have learned so we can learn together. If you think my cooperation is beneficial, feel free to contact me, I would be happy to provide it.<br><br>
+This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer engineering from Mazandaran University- Behshahr. I am proud to have been included in the team behind the article: `Gurkirt Singh - ROAD: The Road Event Awareness Dataset for Autonomous Driving 2021 -Publisher: IEEE.` I prefer to share whatever I have learned so we can learn together. If you think my cooperation is beneficial, feel free to contact me, I would be happy to provide it.<br><br>
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
