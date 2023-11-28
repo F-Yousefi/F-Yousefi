@@ -13,7 +13,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 ### I'm new in the area of AI, so I decided to take on the challenge of completing 50 projects to learn python programming and AI developing. 
 |Number | Title  |
 | ------------- | ------------- |
-| #1 | [Maths-ML](https://github.com/F-Yousefi/Maths-ML) |
+| #1 | [Maths-ML](https://github.com/F-Yousefi/Maths-ML): All the mathematical concepts that I have found tricky but essential to acquiring a good understanding of machine learning algorithms. |
 | ------------- | ------------- |
 
 
