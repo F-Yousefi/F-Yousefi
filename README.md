@@ -10,7 +10,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 <br><br><br>
 
-#### > I'm new in the area of AI, so I decided to take on the challenge of completing 50 projects to to broaden my experience in this area. 
+#### > I'm new in the area of AI, so I decided to take on the challenge of completing 50 projects ralated to AI to broaden my experience in this area. 
 |Number | Title  |
 | ------------- | ------------- |
 | **#1** | [**Maths-ML**](https://github.com/F-Yousefi/Maths-ML):All the mathematical concepts that I have found tricky but essential to acquiring a good understanding of machine learning algorithms. |
