@@ -15,7 +15,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 | ------------- | ------------- |
 | **#1** | [**Maths-ML**](https://github.com/F-Yousefi/Maths-ML):All the mathematical concepts that I have found tricky but essential to acquiring a good understanding of machine learning algorithms. |
 | **#2** | [**House Price Prediction**](https://github.com/F-Yousefi/House_Price_Prediction):This project is based on the dataset that can be found through Tehran (Divar.ir) House Price Prediction |
-| **#3** | [**Breast Cancer Prediction 99.1 Accuracy%**](https://github.com/F-Yousefi/Breast_Cancer_Prediction):This project is based on the dataset published by UCI MACHINE LEARNING available in Kaggle. |
+| **#3** | [**Breast Cancer Prediction 99.1% Accuracy**](https://github.com/F-Yousefi/Breast_Cancer_Prediction):This project is based on the dataset published by UCI MACHINE LEARNING available in Kaggle. |
 
 
 | | |
