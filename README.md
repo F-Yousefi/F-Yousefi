@@ -33,5 +33,5 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=oldie)
 
-
+<img src="./images/banner.PNG" width="100%"> 
 
