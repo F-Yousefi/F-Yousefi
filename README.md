@@ -35,6 +35,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 <br><br><br>
 
+#### >  I used to be quite busy over the last two years, due to the conscription in Iran, but I am now open for discussion, and open for cooperation in the area of AI.
 
 |||
 | ------------- | ------------- |
