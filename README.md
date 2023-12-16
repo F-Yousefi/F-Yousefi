@@ -32,10 +32,10 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 |9|![convolutional_layers](./images/coursera/convolutional_layers.PNG)|10|![hyperparameters](./images/coursera/hyperparameters.PNG)|
 
 
+<br><br><br>
 
 
 
-| My Performance| |
 | ------------- | ------------- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](#)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Yousefi&show_icons=true)  |
 |  ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-Yousefi)  |![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  |
