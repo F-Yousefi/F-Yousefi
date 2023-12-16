@@ -22,7 +22,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 <br><br>
 
 
-#### > Due to the sanctions that The U.S.A has imposed against the regime of Iran, we cannot get any certificate form Coursera. However, we can audit the courses, so I decided to pass the courses I like and then share  a few projects corresponding to each course to showcase my abilities. 
+#### > Due to the sanctions that The U.S.A. has imposed against the regime of Iran, we cannot get any certificate from Coursera. However, we can audit the courses, so I decided to pass the courses I like and then share a few projects corresponding to each course to showcase my abilities.  
 
 ||Course Title||Course Title
 |---|---|----|-----|
