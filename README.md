@@ -20,6 +20,13 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 |**#5**|[Movie Recommendation System](https://github.com/F-Yousefi/RecSys-BST-Pytorch): In this repository, a recommendation system based on the paper "Behavior Sequence Transformer for E-commerce Recommendation in Alibaba" is implemented using Pytorch framework.| Dec 9, 2023 |
 
 
+|#|Course Title|Corresponding Projects|
+|---|---|----|
+|![Linear Algebra](./images/linear_algebra.PNG)
+
+
+
+
 
 | | |
 | ------------- | ------------- |
