@@ -22,7 +22,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 |#|Course Title|Corresponding Projects|
 |---|---|----|
-|![Linear Algebra](./images/linear_algebra.PNG)
+|![Linear Algebra](./images/coursera/linear_algebra.PNG)
 
 
 
