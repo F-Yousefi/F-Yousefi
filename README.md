@@ -22,7 +22,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 |#|Course Title|Corresponding Projects|
 |---|---|----|
-|![Linear Algebra](./images/coursera/linear_algebra.PNG)
+|1|![Linear Algebra](./images/coursera/linear_algebra.PNG)|[**Maths-ML**](https://github.com/F-Yousefi/Maths-ML):All the mathematical concepts that I have found tricky but essential to acquiring a good understanding of machine learning algorithms.
 
 
 
