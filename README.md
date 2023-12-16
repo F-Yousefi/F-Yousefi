@@ -23,7 +23,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 ||Course Title||Course Title
 |---|---|----|-----|
 |1|![Linear Algebra](./images/coursera/linear_algebra.PNG)|2|![Multivariate_calculus](./images/coursera/multivariate_calculus.PNG)|
-|1|![mathematics](./images/coursera/mathematics.PNG)|2|![Multivariate_calculus](./images/coursera/multivariate_calculus.PNG)|
+|3|![mathematics](./images/coursera/mathematics.PNG)|4|![probability](./images/coursera/probability.PNG)|
 
 
 
