@@ -18,6 +18,8 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 | **#3** | [**Breast Cancer Prediction 99.1% Accuracy**](https://github.com/F-Yousefi/Breast_Cancer_Prediction):This project is based on the dataset published by UCI MACHINE LEARNING available in Kaggle. | Nov 20, 2023|
 | **#4** | [**Getting-Started-with-Pytorch**](https://github.com/F-Yousefi/Getting-Started-with-Pytorch/tree/main):This project is based on Mnist dataset, and the architecture used in this project can be find through the link. Although the article was implemented mentioned architecture on Keras, I re-wrote it on Pytorch lightning. | Dec 7, 2023|
 |**#5**|[Movie Recommendation System](https://github.com/F-Yousefi/RecSys-BST-Pytorch): In this repository, a recommendation system based on the paper "Behavior Sequence Transformer for E-commerce Recommendation in Alibaba" is implemented using Pytorch framework.| Dec 9, 2023 |
+<br><br><br>
+
 
 #### > Due to the sanctions that The U.S.A has imposed against the regime of Iran, we cannot get any certificate form Coursera. We can only audit the courses, so I decided to pass the courses I like and then share  a few projects corresponding to each course to showcase my abilities. 
 
@@ -33,7 +35,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 
 
-| | |
+| My Performance| |
 | ------------- | ------------- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](#)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Yousefi&show_icons=true)  |
 |  ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-Yousefi)  |![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  |
