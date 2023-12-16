@@ -26,6 +26,7 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 |3|![mathematics](./images/coursera/mathematics.PNG)|4|![probability](./images/coursera/probability.PNG)|
 |5|![RecSys](./images/coursera/RecSys.PNG)|6|![RFC](./images/coursera/RFC.PNG)|
 |7|![supervised_learning](./images/coursera/supervised_learning.PNG)|8|![neural_network](./images/coursera/neural_network.PNG)|
+|9|![convolutional_layers](./images/coursera/convolutional_layers.PNG)|10|![hyperparameters](./images/coursera/hyperparameters.PNG)|
 
 
 
