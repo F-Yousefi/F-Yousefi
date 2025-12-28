@@ -38,19 +38,13 @@ This is Farzad Yousefi. I graduated in 2020 with a bachelor's degree in computer
 
 <br><br><br>
 
-#### >  I used to be quite busy over the last two years, due to the conscription in Iran, but I am now open for discussion, and open for cooperation in the area of AI.
+###### >  I used to be quite busy over the last two years, due to the conscription in Iran, but I am now open for discussion, and open for cooperation in the area of AI.
 
-|||
-| ------------- | ------------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Yousefi)](#)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Yousefi&show_icons=true)  |
-|  ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-Yousefi)  |![GitHub streak stats](https://streak-stats.demolab.com/?user=F-Yousefi)  |
+
+ ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-Yousefi)
 
 
 
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=F-Yousefi&theme=oldie)
 
 <a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/"> <img src="./images/banner.PNG" alt="banner.PNG" width="100%" ></a>
 
